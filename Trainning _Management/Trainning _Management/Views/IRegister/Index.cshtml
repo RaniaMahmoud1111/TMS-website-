@@ -1,0 +1,11 @@
+﻿@foreach (var instructor in Model)
+{
+    <tr>
+        <td>@instructor.Name</td>
+        <td>@instructor.Email</td>
+        <td>
+            <a asp-action="Edit" asp-route-id="@instructor.Id">Edit</a>
+        </td>
+    </tr>
+}
+

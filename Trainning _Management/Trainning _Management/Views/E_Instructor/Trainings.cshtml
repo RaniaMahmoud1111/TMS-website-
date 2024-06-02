@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Trainning__Management.Models.Training>
+
+@{
+    ViewData["Title"] = "Trainings";
+}
+
+<header>
+    <div class="container my-4">
+        <div class="button-group">
+            <a class="btn" asp-controller="Home" asp-action="Index">Home</a>
+            <a class="btn" asp-controller="Material" asp-action="Index">Material</a>
+            <a class="btn" asp-controller="Task" asp-action="Index">Tasks</a>
+            <a class="btn" asp-controller="E_Instructor" asp-action="Index">Edit Your Account</a>
+        </div>
+    </div>
+</header>
+
+<h2>Trainings</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Start Date</th>
+            <th>Period</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.name</td>
+                <td>@item.description</td>
+                <td>@item.start_date.ToShortDateString()</td>
+                <td>@item.period</td>
+                <td>
+                    <a asp-action="AddMaterial" asp-route-id="@item.id" class="btn btn-primary">Add Material</a>
+                    <a asp-action="AddTask" asp-route-id="@item.id" class="btn btn-secondary">Add Task</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

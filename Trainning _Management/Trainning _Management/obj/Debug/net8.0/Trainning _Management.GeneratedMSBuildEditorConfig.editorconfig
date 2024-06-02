@@ -1,0 +1,231 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Trainning__Management
+build_property.RootNamespace = Trainning__Management
+build_property.ProjectDir = E:\SWPro2\v6mar\justnow\Trainning _Management\Trainning _Management\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\SWPro2\v6mar\justnow\Trainning _Management\Trainning _Management
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Add/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/E_Instructor/AddMaterial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRV9JbnN0cnVjdG9yXEFkZE1hdGVyaWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/E_Instructor/AddTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRV9JbnN0cnVjdG9yXEFkZFRhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/E_Instructor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRV9JbnN0cnVjdG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/E_Instructor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRV9JbnN0cnVjdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/E_Instructor/Trainings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRV9JbnN0cnVjdG9yXFRyYWluaW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/E_Trainee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRV9UcmFpbmVlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/E_Trainee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRV9UcmFpbmVlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Home/AIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Home/I_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJX0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Home/TIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Instructor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Instructor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Instructor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Instructor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/IRegister/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSVJlZ2lzdGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/IRegister/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSVJlZ2lzdGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/IRegister/IRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSVJlZ2lzdGVyXElSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Material/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Material/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Material/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Material/dIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcZEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Material/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Material/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Task/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Task/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Task/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Task/dIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xkSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Task/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Task/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Trainee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Trainee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Trainee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Trainee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Training/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Training/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Training/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Training/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Training/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/TRegister/TRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFJlZ2lzdGVyXFRSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/View_traning/ShowMaterial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld190cmFuaW5nXFNob3dNYXRlcmlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/View_traning/view_traning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld190cmFuaW5nXHZpZXdfdHJhbmluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SWPro2/v6mar/justnow/Trainning _Management/Trainning _Management/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-28p1vjz9f7

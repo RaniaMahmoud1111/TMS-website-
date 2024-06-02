@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <style>
+        .button-group {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 20px;
+        }
+
+            .button-group .btn {
+                flex: 1 1 calc(50% - 20px);
+                text-align: center;
+                border-radius: 50px;
+                background-color: darkolivegreen;
+                color: white;
+                font-size: 1.5rem;
+                font-weight: bold;
+                transition: background-color 0.3s ease;
+            }
+
+                .button-group .btn:hover {
+                    background-color: olivedrab;
+                }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container my-4">
+            <div class="button-group">
+                <a class="btn" asp-controller="Home" asp-action="Index">Home</a>
+                <a class="btn" asp-controller="Trainee" asp-action="Index">Trainee</a>
+                <a class="btn" asp-controller="Instructor" asp-action="Index">Instructor</a>
+                <a class="btn" asp-controller="Training" asp-action="Index">Training</a>
+
+            </div>
+        </div>
+    </header>
+</body>
+</html>

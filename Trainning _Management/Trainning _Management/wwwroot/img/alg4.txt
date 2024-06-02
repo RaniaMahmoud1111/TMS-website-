@@ -1,0 +1,24 @@
+                   'Encryption Vigener tablue'
+    
+alph='abcdefghijklmnopqrstuvwxyz'
+plain_text='helloworld'
+key='secret'
+ch_mat=[]
+ch_mat+=[[alph[(i+j)%26] for j in range(len(alph))]for i in range(len(alph))]
+ciph_text=[]
+k=0
+for i in range(len(plain_text)):
+    if plain_text[i]==' ':
+        ciph_text+=' '
+    else:
+        if k>len(key)-1:
+            k=0
+        ind_plain=alph.find(plain_text[i])
+        ind_key=alph.find(key[k])
+        ciph_text+=ch_mat[ind_key][ind_plain]
+        k=k+1
+print(ciph_text)
+
+
+De
+

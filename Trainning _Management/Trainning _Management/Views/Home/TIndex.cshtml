@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .button-group {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 20px;
+        }
+
+            .button-group .btn {
+                flex: 1 1 calc(50% - 20px);
+                text-align: center;
+                border-radius: 50px;
+                background-color: darkolivegreen;
+                color: white;
+                font-size: 1.5rem;
+                font-weight: bold;
+                transition: background-color 0.3s ease;
+            }
+
+                .button-group .btn:hover {
+                    background-color: olivedrab;
+                }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container my-4">
+            <div class="button-group">
+                <a class="btn" asp-controller="Home" asp-action="Index">Home</a>
+                <a class="btn" asp-controller="Task" asp-action="dIndex">Tasks</a>
+                <a asp-controller="View_traning" asp-action="view_traning" class="btn btn-primary">View All Your Trainings</a>
+                <a asp-controller="Add" asp-action="Index" class="btn btn-primary">Register in a Training</a>
+                <a class="btn" asp-controller="E_Trainee" asp-action="Index">Edit Your Account</a>
+
+            </div>
+        </div>
+    </header>
+</body>
+</html>

@@ -1,0 +1,611 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\material\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\material\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\home\\i_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\home\\i_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\e_instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\e_instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\e_instructor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\e_instructor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\controllers\\e_instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\controllers\\e_instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\trainee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\trainee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\home\\aindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\home\\aindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\controllers\\e_traineecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\controllers\\e_traineecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\e_instructor\\addtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\e_instructor\\addtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\material\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\material\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\models\\sessiontimeoutmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\models\\sessiontimeoutmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\data\\t_mdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\data\\t_mdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\e_instructor\\addmaterial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\e_instructor\\addmaterial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\models\\materials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\models\\materials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\e_instructor\\trainings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\e_instructor\\trainings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\material\\dindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\material\\dindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\controllers\\view_traningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\controllers\\view_traningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\views\\home\\tindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\views\\home\\tindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\controllers\\iregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\controllers\\iregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|e:\\swpro2\\v6mar\\justnow\\trainning _management\\trainning _management\\migrations\\20240526214025_migr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E5E01-2F95-4F0A-84AB-587152D636BA}|Trainning _Management\\Trainning _Management.csproj|solutionrelative:trainning _management\\migrations\\20240526214025_migr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\E_Instructor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\E_Instructor\\Edit.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\E_Instructor\\Edit.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\E_Instructor\\Edit.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T02:56:40.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "E_InstructorController.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\E_InstructorController.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Controllers\\E_InstructorController.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\E_InstructorController.cs",
+              "RelativeToolTip": "Trainning _Management\\Controllers\\E_InstructorController.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAYwNEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:45:01.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\E_Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\E_Instructor\\Index.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\E_Instructor\\Index.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\E_Instructor\\Index.cshtml",
+              "ViewState": "AQIAACYAAACAzMzMzMwnwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T23:06:38.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "I_Index.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Home\\I_Index.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Home\\I_Index.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Home\\I_Index.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Home\\I_Index.cshtml",
+              "ViewState": "AQIAABwAAAAANTMzMzMbwCgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:59:47.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Material\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Material\\Index.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Material\\Index.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Material\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAsMjMzMzMbwBsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T23:34:59.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialController.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\MaterialController.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Controllers\\MaterialController.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\MaterialController.cs",
+              "RelativeToolTip": "Trainning _Management\\Controllers\\MaterialController.cs",
+              "ViewState": "AQIAAHwAAAAAyMzMzMwAwCQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:32:11.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Models\\Instructor.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\Instructor.cs",
+              "RelativeToolTip": "Trainning _Management\\Models\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:26:16.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Trainee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Trainee\\Index.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Trainee\\Index.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Trainee\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAzMzMzMwnwEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T05:09:54.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Instructor\\Index.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Instructor\\Index.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Instructor\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAlJmZmZkOwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T05:08:40.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AIndex.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Home\\AIndex.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Home\\AIndex.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Home\\AIndex.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Home\\AIndex.cshtml",
+              "ViewState": "AQIAABkAAAAANDMzM3MvwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T05:07:37.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Trainning _Management\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACIAAABAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:02:52.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddTask.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\E_Instructor\\AddTask.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\E_Instructor\\AddTask.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\E_Instructor\\AddTask.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\E_Instructor\\AddTask.cshtml",
+              "ViewState": "AQIAAAgAAACgmZmZmZkuwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:57:32.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Controllers\\TaskController.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Trainning _Management\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAEQAAACAAQAAAEAwwFMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:35:21.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Material\\Create.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Material\\Create.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Material\\Create.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Material\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T23:48:43.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "E_TraineeController .cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\E_TraineeController .cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Controllers\\E_TraineeController .cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\E_TraineeController .cs",
+              "RelativeToolTip": "Trainning _Management\\Controllers\\E_TraineeController .cs",
+              "ViewState": "AQIAACgAAAAAkGVmZmbevzgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:59:32.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SessionTimeoutMiddleware.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\SessionTimeoutMiddleware.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Models\\SessionTimeoutMiddleware.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\SessionTimeoutMiddleware.cs",
+              "RelativeToolTip": "Trainning _Management\\Models\\SessionTimeoutMiddleware.cs",
+              "ViewState": "AQIAAAcAAACAzMzMzMwFwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:43:38.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddController.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\AddController.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Controllers\\AddController.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\AddController.cs",
+              "RelativeToolTip": "Trainning _Management\\Controllers\\AddController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:17:15.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Materials.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\Materials.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Models\\Materials.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\Materials.cs",
+              "RelativeToolTip": "Trainning _Management\\Models\\Materials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:27:30.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Trainings.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\E_Instructor\\Trainings.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\E_Instructor\\Trainings.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\E_Instructor\\Trainings.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\E_Instructor\\Trainings.cshtml",
+              "ViewState": "AQIAABUAAADgMjMzMzMrwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:52:49.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddMaterial.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\E_Instructor\\AddMaterial.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\E_Instructor\\AddMaterial.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\E_Instructor\\AddMaterial.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\E_Instructor\\AddMaterial.cshtml",
+              "ViewState": "AQIAABgAAABAZmZmZmYkwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:55:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Program.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Program.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Program.cs",
+              "RelativeToolTip": "Trainning _Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAnwA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:34:39.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "T_MDbContext.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Data\\T_MDbContext.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Data\\T_MDbContext.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Data\\T_MDbContext.cs",
+              "RelativeToolTip": "Trainning _Management\\Data\\T_MDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:38:55.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Trainning _Management\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAoAAAAAnpmZmRkbwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T00:28:26.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Task\\Create.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Task\\Create.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Task\\Create.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Task\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAzMzMzMwXwA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T23:53:41.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T23:00:48.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dIndex.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Material\\dIndex.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Material\\dIndex.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Material\\dIndex.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Material\\dIndex.cshtml",
+              "ViewState": "AQIAABQAAAAALjMzMzPrvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T23:35:19.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEMAAAAA0czMzAwswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T23:18:35.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Models\\Trainee.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\Trainee.cs",
+              "RelativeToolTip": "Trainning _Management\\Models\\Trainee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:47:39.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Models\\Tasks.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\Tasks.cs",
+              "RelativeToolTip": "Trainning _Management\\Models\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:28:06.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Training.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\Training.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Models\\Training.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Models\\Training.cs",
+              "RelativeToolTip": "Trainning _Management\\Models\\Training.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:24:32.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "View_traningController.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\View_traningController.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Controllers\\View_traningController.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\View_traningController.cs",
+              "RelativeToolTip": "Trainning _Management\\Controllers\\View_traningController.cs",
+              "ViewState": "AQIAABwAAACAY2ZmZmYSwCoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:12:24.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TIndex.cshtml",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Home\\TIndex.cshtml",
+              "RelativeDocumentMoniker": "Trainning _Management\\Views\\Home\\TIndex.cshtml",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Views\\Home\\TIndex.cshtml",
+              "RelativeToolTip": "Trainning _Management\\Views\\Home\\TIndex.cshtml",
+              "ViewState": "AQIAABIAAAAAZmZmZiYgwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:09:09.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRegisterController.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\IRegisterController.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Controllers\\IRegisterController.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Controllers\\IRegisterController.cs",
+              "RelativeToolTip": "Trainning _Management\\Controllers\\IRegisterController.cs",
+              "ViewState": "AQIAACsAAADAyczMzAwrwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:46:04.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240526214025_migr1.cs",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Migrations\\20240526214025_migr1.cs",
+              "RelativeDocumentMoniker": "Trainning _Management\\Migrations\\20240526214025_migr1.cs",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\Migrations\\20240526214025_migr1.cs",
+              "RelativeToolTip": "Trainning _Management\\Migrations\\20240526214025_migr1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:40:25.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Trainning _Management\\appsettings.json",
+              "ToolTip": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\appsettings.json",
+              "RelativeToolTip": "Trainning _Management\\appsettings.json",
+              "ViewState": "AQIAAAAAAABwZmZmZmYkwAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T21:34:11.039Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

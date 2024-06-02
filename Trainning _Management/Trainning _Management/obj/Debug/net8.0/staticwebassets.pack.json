@@ -1,0 +1,525 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Trainning _Management.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Trainning _Management.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\files\\cookies.php",
+      "PackagePath": "staticwebassets\\files\\cookies.php"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\files\\forml",
+      "PackagePath": "staticwebassets\\files"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\images.png",
+      "PackagePath": "staticwebassets\\images.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\1.png",
+      "PackagePath": "staticwebassets\\img\\1.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\12-red-roses-bouquet.jpg",
+      "PackagePath": "staticwebassets\\img\\12-red-roses-bouquet.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\13.bmp",
+      "PackagePath": "staticwebassets\\img\\13.bmp"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\14TT3069.jpg",
+      "PackagePath": "staticwebassets\\img\\14TT3069.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\1s.png",
+      "PackagePath": "staticwebassets\\img\\1s.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\2d52f8b0-6362-40a3-916e-9c6656c17f14.jpg",
+      "PackagePath": "staticwebassets\\img\\2d52f8b0-6362-40a3-916e-9c6656c17f14.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\2s.png",
+      "PackagePath": "staticwebassets\\img\\2s.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\3.png",
+      "PackagePath": "staticwebassets\\img\\3.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\40-roses_1_002.jpg",
+      "PackagePath": "staticwebassets\\img\\40-roses_1_002.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\4dca8aa9-589d-403a-af12-9c48128ba60b.jpg",
+      "PackagePath": "staticwebassets\\img\\4dca8aa9-589d-403a-af12-9c48128ba60b.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\51+C2hQdxcL._AC_SY400_.jpg",
+      "PackagePath": "staticwebassets\\img\\51+C2hQdxcL._AC_SY400_.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\5defe019-e5c1-438e-84ec-25001840180d.jpg",
+      "PackagePath": "staticwebassets\\img\\5defe019-e5c1-438e-84ec-25001840180d.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\6.bmp",
+      "PackagePath": "staticwebassets\\img\\6.bmp"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\8.bmp",
+      "PackagePath": "staticwebassets\\img\\8.bmp"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\9.bmp",
+      "PackagePath": "staticwebassets\\img\\9.bmp"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\BF1601.jpg",
+      "PackagePath": "staticwebassets\\img\\BF1601.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\CPC.png",
+      "PackagePath": "staticwebassets\\img\\CPC.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\Capture.PNG",
+      "PackagePath": "staticwebassets\\img\\Capture.PNG"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\Models-and-Databases-in-Django.pdf",
+      "PackagePath": "staticwebassets\\img\\Models-and-Databases-in-Django.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\Screenshot 2023-12-05 111733.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-05 111733.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\Screenshot 2023-12-06 214236.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-06 214236.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\Screenshot 2023-12-06 214410.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-06 214410.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\Screenshot 2023-12-06 221258.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-06 221258.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\Screenshot 2023-12-11 143719.jpg",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-11 143719.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\Section 7.pdf",
+      "PackagePath": "staticwebassets\\img\\Section 7.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\Untitled3.png",
+      "PackagePath": "staticwebassets\\img\\Untitled3.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\_Section 2.pdf",
+      "PackagePath": "staticwebassets\\img\\_Section 2.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\_Section 3.pdf",
+      "PackagePath": "staticwebassets\\img\\_Section 3.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\_Section 4.pdf",
+      "PackagePath": "staticwebassets\\img\\_Section 4.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\_Section 6.pdf",
+      "PackagePath": "staticwebassets\\img\\_Section 6.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\_Section 8.pdf",
+      "PackagePath": "staticwebassets\\img\\_Section 8.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\alg4.txt",
+      "PackagePath": "staticwebassets\\img\\alg4.txt"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\defult.png",
+      "PackagePath": "staticwebassets\\img\\defult.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\download (1).webp",
+      "PackagePath": "staticwebassets\\img\\download (1).webp"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\download (2).webp",
+      "PackagePath": "staticwebassets\\img\\download (2).webp"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\download.webp",
+      "PackagePath": "staticwebassets\\img\\download.webp"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\e41701c1-7ec3-455d-af4d-4b7a2196517a.jpg",
+      "PackagePath": "staticwebassets\\img\\e41701c1-7ec3-455d-af4d-4b7a2196517a.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\f.jpg",
+      "PackagePath": "staticwebassets\\img\\f.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\forml",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\images.png",
+      "PackagePath": "staticwebassets\\img\\images.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\login.php",
+      "PackagePath": "staticwebassets\\img\\login.php"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\reg.php",
+      "PackagePath": "staticwebassets\\img\\reg.php"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\sheet4-13-3-2024.pdf",
+      "PackagePath": "staticwebassets\\img\\sheet4-13-3-2024.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\untitled.png",
+      "PackagePath": "staticwebassets\\img\\untitled.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\untitled4.png",
+      "PackagePath": "staticwebassets\\img\\untitled4.png"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\img\\vanish in the sunset.jpg",
+      "PackagePath": "staticwebassets\\img\\vanish in the sunset.jpg"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\upload\\Tutorial.pdf",
+      "PackagePath": "staticwebassets\\upload\\Tutorial.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\upload\\sheet5-20-3-2024.pdf",
+      "PackagePath": "staticwebassets\\upload\\sheet5-20-3-2024.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\upload\\sheet7-3-4-2024.pdf",
+      "PackagePath": "staticwebassets\\upload\\sheet7-3-4-2024.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\404d9429-452b-4a30-b134-5383161d0ad8_Section 7.pdf",
+      "PackagePath": "staticwebassets\\uploads\\404d9429-452b-4a30-b134-5383161d0ad8_Section 7.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\4d26f6b2-ffea-4cf6-a386-eeb3afb50065__Section 3.pdf",
+      "PackagePath": "staticwebassets\\uploads\\4d26f6b2-ffea-4cf6-a386-eeb3afb50065__Section 3.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\53d213de-8547-463b-827d-056dd7645366_7.bmp",
+      "PackagePath": "staticwebassets\\uploads\\53d213de-8547-463b-827d-056dd7645366_7.bmp"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\9d54347d-ec8e-4062-bfca-9800f53f41e2__Section 8.pdf",
+      "PackagePath": "staticwebassets\\uploads\\9d54347d-ec8e-4062-bfca-9800f53f41e2__Section 8.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\Sheet 1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Sheet 1.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\Sheet 2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Sheet 2.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\_Section 1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\_Section 1.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\_Section 2 (2).pdf",
+      "PackagePath": "staticwebassets\\uploads\\_Section 2 (2).pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\_Section 2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\_Section 2.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\_Section 3.pdf",
+      "PackagePath": "staticwebassets\\uploads\\_Section 3.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\adf242ba-d28b-44a5-b53d-6c773b21bacf__Section 1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\adf242ba-d28b-44a5-b53d-6c773b21bacf__Section 1.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\sheet6-27-3-2024.pdf",
+      "PackagePath": "staticwebassets\\uploads\\sheet6-27-3-2024.pdf"
+    },
+    {
+      "Id": "E:\\SWPro2\\v6mar\\justnow\\Trainning _Management\\Trainning _Management\\wwwroot\\uploads\\sheet7-3-4-2024.pdf",
+      "PackagePath": "staticwebassets\\uploads\\sheet7-3-4-2024.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Trainning _Management.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Trainning _Management.props",
+      "PackagePath": "build\\Trainning _Management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Trainning _Management.props",
+      "PackagePath": "buildMultiTargeting\\Trainning _Management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Trainning _Management.props",
+      "PackagePath": "buildTransitive\\Trainning _Management.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

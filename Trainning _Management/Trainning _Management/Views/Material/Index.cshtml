@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Trainning__Management.Models.Materials>
+
+<h1>Materials</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-square"></i>Add New Material</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MaterialName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.file_path)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Training.name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaterialName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.file_path)
+                    @if (!string.IsNullOrEmpty(item.file_path) && item.file_path != "default.png")
+                    {
+                        <a asp-action="Download" asp-route-fileName="@item.file_path" class="btn btn-secondary btn-sm ml-2"><i class="bi bi-download"></i> Download</a>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Training.name)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary"><i class="bi bi-pencil-square"></i>Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-secondary"><i class="bi bi-info-circle"></i>Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"><i class="bi bi-trash"></i>Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

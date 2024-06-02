@@ -1,0 +1,38 @@
+﻿@model Trainning__Management.Models.login
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form asp-action="Login" method="post">
+    <div class="form-group">
+        <label asp-for="email"></label>
+        <input asp-for="email" class="form-control" />
+        <span asp-validation-for="email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="pass"></label>
+        <input asp-for="pass" type="password" class="form-control" />
+        <span asp-validation-for="pass" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+
+    <div class="m-2">
+
+        <label>Don't have account?  </label>
+        <br />
+        <a asp-area="" asp-controller="IRegister" asp-action="IRegister">  Register As Instructor</a>
+        <br />
+        <a asp-area="" asp-controller="TRegister" asp-action="TRegister"> Register As Trainee</a>
+
+
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
